@@ -37,7 +37,7 @@ export default function SignUpPage() {
               <Heart className="w-5 h-5 text-white" />
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-              CareerMatch
+              Cardinal
             </span>
           </Link>
           <h1 className="text-2xl font-bold text-gray-900">Create Your Account</h1>

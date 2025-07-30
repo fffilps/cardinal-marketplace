@@ -15,7 +15,7 @@ export default function LandingPage() {
               <Heart className="w-5 h-5 text-white" />
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-              CareerMatch
+              Cardinal
             </span>
           </div>
           <div className="flex items-center space-x-4">
@@ -108,7 +108,7 @@ export default function LandingPage() {
       <section className="bg-white py-20">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">Why CareerMatch?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">Why Cardinal?</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               We've reimagined job searching to be more human, more efficient, and more successful.
             </p>
@@ -157,7 +157,7 @@ export default function LandingPage() {
         <div className="max-w-3xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">Ready to Find Your Perfect Match?</h2>
           <p className="text-xl text-gray-600 mb-8">
-            Join thousands of professionals who've already found their dream jobs through CareerMatch.
+            Join thousands of professionals who've already found their dream jobs through Cardinal.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/signup?type=candidate">
@@ -184,10 +184,10 @@ export default function LandingPage() {
             <div className="w-8 h-8 bg-gradient-to-r from-purple-600 to-pink-600 rounded-lg flex items-center justify-center">
               <Heart className="w-5 h-5 text-white" />
             </div>
-            <span className="text-xl font-bold">CareerMatch</span>
+            <span className="text-xl font-bold">Cardinal</span>
           </div>
           <div className="text-center text-gray-400">
-            <p>&copy; 2024 CareerMatch. All rights reserved.</p>
+            <p>&copy; 2025 Cardinal. All rights reserved.</p>
           </div>
         </div>
       </footer>
